@@ -1,0 +1,8 @@
+{
+  "name": "surveys-clean-architecture-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:maquiavelli/surveys-clean-architecture-backend.git",
+  "author": "Gabriel Maquiavelli <gabrielmaquiavelli@gmail.com>",
+  "license": "MIT"
+}
